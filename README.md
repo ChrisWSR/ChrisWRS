@@ -3,7 +3,6 @@
 ## About Me
 - 🎓 Studying Biomedical Engineering
 - 💻 Focused on coding and computer vision
-- 
 - 🐧 Linux User
 - 🌐 English & Spanish 
 
