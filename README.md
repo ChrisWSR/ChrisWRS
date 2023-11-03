@@ -1,4 +1,4 @@
-# Hello, I'm [Christopher] 👋
+# Hello, I'm Christopher 👋
 
 ## About Me
 - 🎓 Studying Biomedical Engineering
